@@ -1,0 +1,13 @@
+Flask
+flask-ngrok
+gunicorn
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+pymysql
+joblib
+openpyxl
+together
